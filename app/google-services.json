@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961856113995",
+    "project_id": "apppost-11d9d",
+    "storage_bucket": "apppost-11d9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961856113995:android:76ddab56f22cde603f2cce",
+        "android_client_info": {
+          "package_name": "com.kodetr.apppost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961856113995-b74b6hbe8htsc9papooe8s5f641nj9v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQcEG7fZ18nglH8yCF5ETBeJhIW00jZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961856113995-b74b6hbe8htsc9papooe8s5f641nj9v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

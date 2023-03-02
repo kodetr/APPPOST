@@ -1,0 +1,27 @@
+apply plugin: 'com.android.library'
+
+android {
+
+    namespace 'com.kodetr.apppost'
+    compileSdk 33
+
+    defaultConfig {
+        minSdkVersion 24
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0"
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation "androidx.exifinterface:exifinterface:1.0.0"
+}
+
